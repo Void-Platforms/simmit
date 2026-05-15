@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+.env*
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Local agent state
+.claude/
